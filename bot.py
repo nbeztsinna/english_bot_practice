@@ -10,7 +10,7 @@ token = "6161374725:AAGzmrYzA_SBdztYPn9QysZB03XMBgXzQEw"
 root_url = "https://api.telegram.org/bot"
 
 ok_codes = 200, 201, 202, 203, 204
-
+# comment for git
 
 sentences = [
 	{"text": "When my time comes \n Forget the wrong that I’ve done take.", 
