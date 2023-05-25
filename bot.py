@@ -11,6 +11,7 @@ root_url = "https://api.telegram.org/bot"
 
 ok_codes = 200, 201, 202, 203, 204
 # comment for git
+# comment for second_br
 
 sentences = [
 	{"text": "When my time comes \n Forget the wrong that I’ve done take.", 
